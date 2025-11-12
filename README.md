@@ -1,6 +1,7 @@
 # Coding challenge
 This page consists of a coding challenge for Data Engineering roles.
 You should be able to complete this in 5 hours, though overall deadline is 5 days to buffer life's other commitments :)
+2025 Update: Use AI to complete the task, while maintaining control / oversight into key technical considerations
 
 # Goals
 There are 3 aims for this test
